@@ -1,0 +1,380 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab86bcf3b2e40138498b515602a9d81, type: 3}
+  m_Name: ConfigData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: unlockGoMainMenuOnLoseAtLevelIndex
+      Entry: 3
+      Data: 7
+    - Name: unlockBonusChestAtLevelIndex
+      Entry: 3
+      Data: 7
+    - Name: unlockDailyChallengeAtLevelIndex
+      Entry: 3
+      Data: 9
+    - Name: unlockSecretLevelAtLevelIndex
+      Entry: 3
+      Data: 21
+    - Name: timePerDailyChallengeLevel
+      Entry: 3
+      Data: 150
+    - Name: timePerSecretLevel
+      Entry: 3
+      Data: 720
+    - Name: requireRewardKey
+      Entry: 3
+      Data: 4
+    - Name: RCRewards
+      Entry: 7
+      Data: 0|_Game.Resource.BoosterType[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: RCQuantitys
+      Entry: 7
+      Data: 1|System.Int32[], mscorlib
+    - Name: 
+      Entry: 14
+      Data: 4
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: RCRates
+      Entry: 7
+      Data: 2|System.Single[], mscorlib
+    - Name: 
+      Entry: 14
+      Data: 4
+    - Name: 
+      Entry: 4
+      Data: 0.6
+    - Name: 
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 4
+      Data: 0.05
+    - Name: 
+      Entry: 4
+      Data: 0.05
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: requireLevelProgress
+      Entry: 3
+      Data: 10
+    - Name: LCRewards
+      Entry: 7
+      Data: 3|_Game.Resource.CurrencyType[], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: LCQuantitys
+      Entry: 7
+      Data: 4|System.Int32[], mscorlib
+    - Name: 
+      Entry: 14
+      Data: 4
+    - Name: 
+      Entry: 3
+      Data: 160
+    - Name: 
+      Entry: 3
+      Data: 200
+    - Name: 
+      Entry: 3
+      Data: 220
+    - Name: 
+      Entry: 3
+      Data: 250
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: LCRates
+      Entry: 7
+      Data: 5|System.Single[], mscorlib
+    - Name: 
+      Entry: 14
+      Data: 4
+    - Name: 
+      Entry: 4
+      Data: 0.5
+    - Name: 
+      Entry: 4
+      Data: 0.3
+    - Name: 
+      Entry: 4
+      Data: 0.15
+    - Name: 
+      Entry: 4
+      Data: 0.05
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: requireSecretMapPiece
+      Entry: 3
+      Data: 8
+    - Name: CharacterCosts
+      Entry: 7
+      Data: 6|System.Int32[], mscorlib
+    - Name: 
+      Entry: 14
+      Data: 6
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 3
+      Data: 5000
+    - Name: 
+      Entry: 3
+      Data: 7000
+    - Name: 
+      Entry: 3
+      Data: 8000
+    - Name: 
+      Entry: 3
+      Data: 9000
+    - Name: 
+      Entry: 3
+      Data: 7000
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: DangerTime
+      Entry: 3
+      Data: 15
+    - Name: MoreTimeAdded
+      Entry: 3
+      Data: 60
+    - Name: bonusChestGoldReward
+      Entry: 3
+      Data: 40
+    - Name: easyLevelGoldReward
+      Entry: 3
+      Data: 20
+    - Name: mediumLevelGoldReward
+      Entry: 3
+      Data: 40
+    - Name: hardLevelGoldReward
+      Entry: 3
+      Data: 80
+    - Name: dailyChallengeGoldReward
+      Entry: 3
+      Data: 40
+    - Name: secretLevelGoldReward
+      Entry: 3
+      Data: 200
+    - Name: stepInterAdsCountMax
+      Entry: 3
+      Data: 3
+    - Name: interAdsCooldownTime
+      Entry: 3
+      Data: 45
+    - Name: startInterAdsLevel
+      Entry: 3
+      Data: 8
+    - Name: startBannerAds
+      Entry: 3
+      Data: 3
+    - Name: winLevelCountInterAds
+      Entry: 3
+      Data: 4
+    - Name: maxRentCount
+      Entry: 3
+      Data: 3
+  maxHeart: 5
+  timePerNormalLevel:
+  - levelNormalType: 0
+    time: 90
+  - levelNormalType: 1
+    time: 150
+  - levelNormalType: 2
+    time: 210
+  dailyChallengeRewardMilestones:
+  - clearLevelNeed: 1
+    hasFirstReward: 0
+    firstRewards: []
+    rewards:
+    - RewardType: 0
+      BoosterType: 1
+      CurrencyType: 0
+      CharacterType: 0
+      Amount: 1
+  - clearLevelNeed: 3
+    hasFirstReward: 0
+    firstRewards: []
+    rewards:
+    - RewardType: 1
+      BoosterType: 0
+      CurrencyType: 0
+      CharacterType: 0
+      Amount: 200
+  - clearLevelNeed: 7
+    hasFirstReward: 0
+    firstRewards: []
+    rewards:
+    - RewardType: 0
+      BoosterType: 2
+      CurrencyType: 0
+      CharacterType: 0
+      Amount: 1
+    - RewardType: 1
+      BoosterType: 0
+      CurrencyType: 0
+      CharacterType: 0
+      Amount: 300
+  - clearLevelNeed: 15
+    hasFirstReward: 0
+    firstRewards: []
+    rewards:
+    - RewardType: 1
+      BoosterType: 2
+      CurrencyType: 0
+      CharacterType: 0
+      Amount: 500
+  - clearLevelNeed: 25
+    hasFirstReward: 1
+    firstRewards:
+    - RewardType: 2
+      BoosterType: 0
+      CurrencyType: 0
+      CharacterType: 3
+      Amount: 1
+    rewards:
+    - RewardType: 0
+      BoosterType: 1
+      CurrencyType: 0
+      CharacterType: 0
+      Amount: 1
+    - RewardType: 0
+      BoosterType: 2
+      CurrencyType: 0
+      CharacterType: 0
+      Amount: 1
+    - RewardType: 1
+      BoosterType: 1
+      CurrencyType: 0
+      CharacterType: 0
+      Amount: 200
+  boosterConfigList:
+  - type: 0
+    unlockAtLevel: 1
+    goldPerBuyRatio:
+      goldNeed: 3
+      itemsPerBuy: 300
+    UIResourceConfig:
+      Name: Undo
+      MainIconSprite: {fileID: 0}
+      SubIconSprite: {fileID: 0}
+  - type: 1
+    unlockAtLevel: 7
+    goldPerBuyRatio:
+      goldNeed: 550
+      itemsPerBuy: 1
+    UIResourceConfig:
+      Name: Push Hint
+      MainIconSprite: {fileID: 0}
+      SubIconSprite: {fileID: 0}
+  - type: 2
+    unlockAtLevel: 6
+    goldPerBuyRatio:
+      goldNeed: 300
+      itemsPerBuy: 2
+    UIResourceConfig:
+      Name: Grow Tree
+      MainIconSprite: {fileID: 0}
+      SubIconSprite: {fileID: 0}
+  - type: 3
+    unlockAtLevel: 3
+    goldPerBuyRatio:
+      goldNeed: 0
+      itemsPerBuy: 0
+    UIResourceConfig:
+      Name: Reset Island
+      MainIconSprite: {fileID: 0}
+      SubIconSprite: {fileID: 0}
+  bannerHeight: 150
+  reloadBannerTime: 120
+  interAdsCappingTime: 150

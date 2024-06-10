@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIDailyReward
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 93630e4eff16b7f46b65c07191d18108, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 71aa9310696258f44b357f4822eb5286, type: 3}
+  - {fileID: 21300000, guid: f0363e301eb953b499fd5748993fe7e6, type: 3}
+  - {fileID: 21300000, guid: 6123d0b029ac47547a285b4d88c154b9, type: 3}
+  - {fileID: 21300000, guid: edaf64519ed99ae45a2c701764387fd2, type: 3}
+  - {fileID: 21300000, guid: 8601a2b11ecb17345ab5d3d30abd91e6, type: 3}
+  - {fileID: 21300000, guid: 4009caf1db1124d40abf597eb98991c1, type: 3}
+  - {fileID: 21300000, guid: 50991b92e8200f44dab227608e66446d, type: 3}
+  - {fileID: 21300000, guid: 84929814e87c21c409f95b9ea5eb6e32, type: 3}
+  - {fileID: 21300000, guid: 4b0d4344ab96df64080e52e1ca83d4e1, type: 3}
+  - {fileID: 21300000, guid: 239e6d44770ea2840add230e3cdc4936, type: 3}
+  - {fileID: 21300000, guid: 16ab57642047e414cb0d5e9d22b9ab62, type: 3}
+  - {fileID: 21300000, guid: c65c5b7455db7b646aedc2b2acb7f9ed, type: 3}
+  - {fileID: 21300000, guid: d4319085219662546a5515d2b9768e3f, type: 3}
+  - {fileID: 21300000, guid: 0d7892b525ad66f4695bf903dcb2fe58, type: 3}
+  - {fileID: 21300000, guid: 504f9966ff4ab054483f4ad651852872, type: 3}
+  - {fileID: 21300000, guid: 5536bd070f6cc514399a665b0bb960c9, type: 3}
+  - {fileID: 21300000, guid: 48c4a408eef32174dbc3b47e40259cc6, type: 3}
+  - {fileID: 21300000, guid: e88c0a18126de3c41a8134ece7b0a9ba, type: 3}
+  - {fileID: 21300000, guid: 31def8a89839000498379bc2345bb19b, type: 3}
+  - {fileID: 21300000, guid: 3f0f861da080eae42b3f72238afd861c, type: 3}
+  - {fileID: 21300000, guid: 38228fed62dc055488ec8f2cd36049bf, type: 3}
+  - {fileID: 21300000, guid: 151df51ea22bb1c4393d6c4b6d9a1d7c, type: 3}
+  - {fileID: 21300000, guid: 0b67dc7ee565f7d4c9912cdc65a483c9, type: 3}
+  - {fileID: 21300000, guid: c1d102ff5209bad47bf41e17b01a32af, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - _0018_x
+  - _0013_Rounded-Rectangle-5
+  - _0002_Group-12
+  - _0001_CLAIM
+  - _0021_DAY-4
+  - cat
+  - _0002_Group-10
+  - _0011_DAY-3
+  - _0019_DAY-6
+  - coin
+  - _0022_Group-7
+  - _0017_Group-3
+  - _0003_DAY-7
+  - _0020_DAY-5
+  - _0012_DAY-2
+  - Bubble
+  - _0015_return_text
+  - _0016_daily-gift
+  - _0009_Group-8
+  - ad_ticket
+  - _0000_check_btn
+  - _0014_choose
+  - _0010_DAY-1
+  - _0002_Group-11
+  m_RenderDataMap: {}
+  m_Tag: UIDailyReward
+  m_IsVariant: 0

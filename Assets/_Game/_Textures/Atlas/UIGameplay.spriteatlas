@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIGameplay
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 91093825107bf9c42950ef7dc4ac15f8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5e32bc311a3b25b40b2518b71d4b2d7e, type: 3}
+  - {fileID: 21300000, guid: 49e72cf12ea404541bf3df7d6e014d26, type: 3}
+  - {fileID: 21300000, guid: 5a6efe32c48fc7e4c9666f9c445dbcf8, type: 3}
+  - {fileID: 21300000, guid: 13e53a5210354e94fa9cceb380380da5, type: 3}
+  - {fileID: 21300000, guid: 3fd0bd92d4dbf314f8ddf1b084736524, type: 3}
+  - {fileID: 21300000, guid: c8f72953b00d50a44847d218fcdecd77, type: 3}
+  - {fileID: 21300000, guid: bf164eb33e1f1ec48a463ffe1a62006b, type: 3}
+  - {fileID: 21300000, guid: 621842f36e7be2246b29d00bf368d2c1, type: 3}
+  - {fileID: 21300000, guid: dfe0e8f30ee307448adaddecd27b267e, type: 3}
+  - {fileID: 21300000, guid: 76f62754f7f22d04eb619ce11f16448a, type: 3}
+  - {fileID: 21300000, guid: a04797541460158408f4b380593e1355, type: 3}
+  - {fileID: 21300000, guid: 73327ac47faf7114fa289028a811d222, type: 3}
+  - {fileID: 21300000, guid: c0809e855064a5a47ac8ce76036ec234, type: 3}
+  - {fileID: 21300000, guid: aef9a8b6bcbd3a34eb52d7957e26a207, type: 3}
+  - {fileID: 21300000, guid: 27eb4bc6eccfed4479f666177d467105, type: 3}
+  - {fileID: 21300000, guid: 311280d6573bfca44a41c6f7694913c7, type: 3}
+  - {fileID: 21300000, guid: bcff4bf68556c9a4e8bb7d22207c9395, type: 3}
+  - {fileID: 21300000, guid: 3d794437d6f47b640acb9a4a5b4cb23d, type: 3}
+  - {fileID: 21300000, guid: 53a5f9376ba7ea74cb52863fb47c7456, type: 3}
+  - {fileID: 21300000, guid: fe397077ad854bf4e8254698e761872f, type: 3}
+  - {fileID: 21300000, guid: b419e0480302b144e89367c5f9927d5e, type: 3}
+  - {fileID: 21300000, guid: 602ef88825b9e224ca73d382bd0bf51e, type: 3}
+  - {fileID: 21300000, guid: 2c6177a86c6fcbb4f9094c7388fcd9f6, type: 3}
+  - {fileID: 21300000, guid: 3ea2b1c8c82d1b248812dd79292f0d32, type: 3}
+  - {fileID: 21300000, guid: dfc87af8ca5f0134cbe4669d65ba0237, type: 3}
+  - {fileID: 21300000, guid: 6e240b19cc9ec9440b57506a1351d1bc, type: 3}
+  - {fileID: 21300000, guid: 3d51b9499215c95409575808db7284c5, type: 3}
+  - {fileID: 21300000, guid: 3e53afb930fb97e479738d9639ad649e, type: 3}
+  - {fileID: 21300000, guid: 3cf7ea2a4069af547a0b0816c65d6bce, type: 3}
+  - {fileID: 21300000, guid: 17577a0bb9e3c7a44bd660e33f5e0c10, type: 3}
+  - {fileID: 21300000, guid: 0fc18e2bad6999b48b3c17f4564fe2dc, type: 3}
+  - {fileID: 21300000, guid: 5728cc6ca312be943aea730af30409ce, type: 3}
+  - {fileID: 21300000, guid: cfdb948d9c7c28642bd144c6c02a95f1, type: 3}
+  - {fileID: 21300000, guid: 9579f68de3707b6458dcc2bbad91fc31, type: 3}
+  - {fileID: 21300000, guid: 9b506f8db48e53a49adc9aa5aab258a5, type: 3}
+  - {fileID: 21300000, guid: 6381f99d2d5e97244adfa4864ec15365, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Fruit
+  - text_box
+  - Enemy_Sample
+  - magnigying_glass
+  - booster_red_btn
+  - HintSquare
+  - FlameIcon
+  - level_boxx
+  - HandPointer
+  - Chicken
+  - triangle
+  - text
+  - lock
+  - booster_btn
+  - grow_tree
+  - objective_box
+  - clock_icon
+  - HintArrow
+  - key
+  - fx_circle
+  - ad
+  - Glow_white
+  - undo_booster
+  - warning_bar
+  - undo
+  - FlameIcon2
+  - pause_btn
+  - star
+  - Dpad_Right_W
+  - time_box
+  - pause_icon
+  - Dpad_Up_W
+  - FlameIconOut
+  - hint_booster
+  - Dpad_Down_W
+  - Dpad_Left_W
+  m_RenderDataMap: {}
+  m_Tag: UIGameplay
+  m_IsVariant: 0

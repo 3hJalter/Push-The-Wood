@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286264691058",
+    "project_id": "push-the-wood",
+    "storage_bucket": "push-the-wood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286264691058:android:80b2419909556c6acf35eb",
+        "android_client_info": {
+          "package_name": "com.abi.push.wood.pet.puzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUyjM8iqUqeAdzoszFmW8PHoEoU4_wDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

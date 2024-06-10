@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIPause
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: caba5243857241c4bb7f93f618b3340b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d3c968b0da0dea642b7925cab38aede3, type: 3}
+  - {fileID: 21300000, guid: 7524c1d00d930564c9ea5ed3ef34fb70, type: 3}
+  - {fileID: 21300000, guid: 6e16be211ddeb8a4886980e9d1d398f2, type: 3}
+  - {fileID: 21300000, guid: 51fcd4816abff8443b8df512e7164bd3, type: 3}
+  - {fileID: 21300000, guid: c296c7c19eedd914cb70ed3b5a9419c7, type: 3}
+  - {fileID: 21300000, guid: f08223e15b0270044b42adae1d28fbf1, type: 3}
+  - {fileID: 21300000, guid: 1bed1102da174374d8d04b4da22976ec, type: 3}
+  - {fileID: 21300000, guid: 7e378d020020b854892236d80ba4fb6a, type: 3}
+  - {fileID: 21300000, guid: 3cdb3d22df476734c9b2d42a2083142f, type: 3}
+  - {fileID: 21300000, guid: 35a32d624ee43044aacd51388e6d13e8, type: 3}
+  - {fileID: 21300000, guid: 4ea9887283f1b664c80b761c69cdc459, type: 3}
+  - {fileID: 21300000, guid: 4dadaef2e7f579544888d4fdb7b1a62f, type: 3}
+  - {fileID: 21300000, guid: a229d0338d6afc649a85be2a84791935, type: 3}
+  - {fileID: 21300000, guid: 6a56edf3fa79e6c48820ea336ba6ec17, type: 3}
+  - {fileID: 21300000, guid: 797d468547ee6eb4999df48f2e1181d2, type: 3}
+  - {fileID: 21300000, guid: b1941826215b5d4438fed333098a768d, type: 3}
+  - {fileID: 21300000, guid: 0377d6f6d5ee1ff42a975f394253c0c9, type: 3}
+  - {fileID: 21300000, guid: 6e35c157ae629794e9b4b5ac10a0d329, type: 3}
+  - {fileID: 21300000, guid: 862cf9a7b26a6de4f9c1b25ddffbd8c6, type: 3}
+  - {fileID: 21300000, guid: 16f12348e64db3340bf5d1db7bf9b8ca, type: 3}
+  - {fileID: 21300000, guid: 9fff6578feeb02a44a9486464dd4d58d, type: 3}
+  - {fileID: 21300000, guid: d6275ac844e3a5c49a4c03ddad8341a4, type: 3}
+  - {fileID: 21300000, guid: c691a959c0e750b4898fde5a7fe5c1e0, type: 3}
+  - {fileID: 21300000, guid: f57148f9e8c86ff419dc6e8a42cf1075, type: 3}
+  - {fileID: 21300000, guid: 74bf181a5e2d1c04bb238329834b25a0, type: 3}
+  - {fileID: 21300000, guid: 82ab687a4b8e44340aedaeaa54585be0, type: 3}
+  - {fileID: 21300000, guid: 99fb44fbb122ba74cabda03006b55191, type: 3}
+  - {fileID: 21300000, guid: ca54de3c47a4a484dba59e9e84f7ca81, type: 3}
+  - {fileID: 21300000, guid: f918e24c862506c4a91e443633356163, type: 3}
+  - {fileID: 21300000, guid: b61beb7c3844afe4f977981212827820, type: 3}
+  - {fileID: 21300000, guid: 424855fc5d38bda438f841e891d7c6b1, type: 3}
+  - {fileID: 21300000, guid: 1ce9047dec37f2e4a9f3d2ad383d7341, type: 3}
+  - {fileID: 21300000, guid: c7ae7c9da9dc16e48bac5beca424ba8b, type: 3}
+  - {fileID: 21300000, guid: 80fbee1e4e81fea4f8dec4eb330f70ed, type: 3}
+  - {fileID: 21300000, guid: 35be645fd00f12d40ae7c385b5b8eb2f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - control-dpad
+  - _0020_haptics_OFF
+  - _0022_Group-8
+  - haptic
+  - _0026_green_btn
+  - _0018_Layer-16
+  - _0011_SWIPE
+  - _0010_DPAD
+  - _0019_grid-off
+  - _0008_Layer-6
+  - _0014_haptics_ON
+  - _0025_pause
+  - _0016_HAPTICS
+  - _0015_Rectangle-1
+  - home-button
+  - _0021_Group-8-copy-2
+  - _0007_Layer-10
+  - _0028_Group-7
+  - separator
+  - _0013_Group-8-copy
+  - _0012_Layer-14-copy
+  - _0023_Rounded-Rectangle-3
+  - _0006_Layer-8
+  - _0024_resume
+  - _0009_SWITCH
+  - handle
+  - control-swipe
+  - _0005_Layer-11-copy-2
+  - _0017_no_ads
+  - rounded-rectangle
+  - control-switch
+  - grid
+  - _0004_MOVE-CHOICES
+  - music
+  - sound
+  m_RenderDataMap: {}
+  m_Tag: UIPause
+  m_IsVariant: 0

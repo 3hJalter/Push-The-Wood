@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIWinLose
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c6a5898f5e2e82445a605bd2037595b6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 32458510b5ac5cf42b34fb70ac2a694a, type: 3}
+  - {fileID: 21300000, guid: 9643b6404a76d294e96befc8f6379f44, type: 3}
+  - {fileID: 21300000, guid: 95d927c00bbf9a848b84f209fdfea408, type: 3}
+  - {fileID: 21300000, guid: c264b4e09d85a4e40842284076eb9032, type: 3}
+  - {fileID: 21300000, guid: e46fb36346771c740a406dea2bb97a1f, type: 3}
+  - {fileID: 21300000, guid: a9256da4791d33743b095199ffcd5822, type: 3}
+  - {fileID: 21300000, guid: 0d6adbc4c9d1caa49950a52686e1d5eb, type: 3}
+  - {fileID: 21300000, guid: f04fd3055ac2c1542a7909aee129d7c8, type: 3}
+  - {fileID: 21300000, guid: c248e6155d5687d41bd737612dfec279, type: 3}
+  - {fileID: 21300000, guid: d9ecf0f7023828d4f9d2496a9be752da, type: 3}
+  - {fileID: 21300000, guid: 56e2e288f65782e449dcd45e3864953d, type: 3}
+  - {fileID: 21300000, guid: 81487c79f968c99409c3401143e42c6b, type: 3}
+  - {fileID: 21300000, guid: 6ea4f0ba94003e644ae1fc0933af07b7, type: 3}
+  - {fileID: 21300000, guid: 75fa92ec0b3cac942b8caa552b88503d, type: 3}
+  - {fileID: 21300000, guid: 13801fad1b251504d8cffc4211aaf783, type: 3}
+  - {fileID: 21300000, guid: 9ce060ae21487bf49bd8925d9550b467, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dogwin
+  - retry-button
+  - lose-header
+  - dogwin1
+  - _0003_Group-7
+  - _0005_next-lv
+  - filled_dog
+  - watch-ad
+  - revive-button
+  - dognbee
+  - Panel
+  - dogrun
+  - _0000_Layer-4
+  - background
+  - _0002_lv-complete
+  - dogsad
+  m_RenderDataMap: {}
+  m_Tag: UIWinLose
+  m_IsVariant: 0
